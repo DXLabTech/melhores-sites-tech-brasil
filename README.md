@@ -5,7 +5,7 @@ A ideia do repositório foi inspirado em: [awesome](https://github.com/sindresor
 
 Contribuidores são sempre bem-vindos! Por favor, leia nossa página com um guia para contribuir. Não aceitamos conteúdo que esteja acessível apenas para assinantes / conteúdo pago.
 
-Agradecimento especial a todos [contribuidores](https://github.com/DXLabTech/sites-blogs-brasil/graphs/contributors). Obrigado por dedicarem seu tempo para construir um ecossistema de tecnologia melhor no Brasil! 
+Agradecimento especial a todos [contribuidores](https://github.com/DXLabTech/melhores-sites-tech-brasil/graphs/contributors). Obrigado por dedicarem seu tempo para construir um ecossistema de tecnologia melhor no Brasil! 
 
 O objetivo deste repositório é construir uma lista de sites que profissionais e estudantes possam utilizar como referência nos seus estudos.
 
