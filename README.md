@@ -7,17 +7,17 @@ Contribuidores são sempre bem-vindos! Por favor, leia nossa página com um [gui
 
 Agradecimento especial a todos [contribuidores](https://github.com/DXLabTech/melhores-sites-tech-brasil/graphs/contributors). Obrigado por dedicarem seu tempo para construir um ecossistema de tecnologia melhor no Brasil! 
 
-O objetivo deste repositório é construir uma lista de sites que profissionais e estudantes possam utilizar como referência nos seus estudos.
+**O objetivo deste repositório é construir uma lista de sites que profissionais e estudantes possam utilizar como referência nos seus estudos. Essa lista contem apenas conteúdo em português para facilitar a inclusão de pessoas que não tem dominio do inglês. Para conteúdos em inglês, criaremos outra lista.**
 
 Tem indicação de algum site? Quer contribuir? Basta fazer um pull request!
 
 # Conteúdo
 
 * Blogs e artigos
-  * https://www.eximiaco.tech/pt/
-  * https://www.lambda3.com.br/blog/
   * https://www.infoq.com/br/
   * https://www.alura.com.br/artigos
   * https://www.devmedia.com.br/guias/
   * https://www.profissionaisti.com.br/
+  * https://www.eximiaco.tech/pt/
+  * https://www.lambda3.com.br/blog/
   * http://www.tableless.com.br/
