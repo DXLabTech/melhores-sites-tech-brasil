@@ -3,7 +3,7 @@ Melhores sites e blogs de desenvolvimento de software do Brasil.
 
 A ideia do repositório foi inspirado em: [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core), [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
 
-Contribuidores são sempre bem-vindos! Por favor, leia nossa página com um guia para contribuir. Não aceitamos conteúdo que esteja acessível apenas para assinantes / conteúdo pago.
+Contribuidores são sempre bem-vindos! Por favor, leia nossa página com um [guia para contribuir](https://github.com/DXLabTech/melhores-sites-tech-brasil/blob/master/guia-contribuidores.md). Não aceitamos conteúdo que esteja acessível apenas para assinantes / conteúdo pago.
 
 Agradecimento especial a todos [contribuidores](https://github.com/DXLabTech/melhores-sites-tech-brasil/graphs/contributors). Obrigado por dedicarem seu tempo para construir um ecossistema de tecnologia melhor no Brasil! 
 
