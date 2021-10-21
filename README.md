@@ -17,6 +17,7 @@ Tem indicação de algum site? Quer contribuir? Basta fazer um pull request!
   * https://www.infoq.com/br/
   * https://www.alura.com.br/artigos
   * https://www.devmedia.com.br/guias/
+  * https://web.digitalinnovation.one/articles
   * https://www.profissionaisti.com.br/
   * https://www.eximiaco.tech/pt/
   * https://www.lambda3.com.br/blog/
